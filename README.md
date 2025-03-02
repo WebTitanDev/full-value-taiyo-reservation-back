@@ -1,2 +1,3 @@
-# full-value-taiyo-reservation-back
-frontend for Next.js (app directory)
+# full-value-taiyo-reservation-frontend
+I used Next.js (app directory)
+ for frontend 
